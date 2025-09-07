@@ -1,6 +1,6 @@
 # Book-Store-Ecom-website
 
----
+--- 
 
 ## Getting Started with Create React App
 
@@ -42,12 +42,7 @@ All of the commands except `eject` will still work, but they will point to the c
 
 You don’t ever have to use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature.  
 
----
-
-## Deployment
-The project can be easily deployed using **Vercel**, **Netlify**, or any static hosting provider.  
-Backend deployment can be done using **Render**, **Heroku**, or **Vercel Functions**.
-
+The project is deployed using Vercel, which hosts both the frontend and backend, ensuring smooth deployment and easy scalability.
 ---
 
 ##  Features
@@ -58,10 +53,7 @@ Backend deployment can be done using **Render**, **Heroku**, or **Vercel Functio
 
 ---
 
-##  Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
----
 
 
 
